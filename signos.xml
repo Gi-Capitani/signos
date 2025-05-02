@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Áries é o signo da iniciativa, ação e coragem. Pessoas arianas costumam ser líderes natos, cheios de energia, determinação e vontade de vencer. Gostam de desafios e se jogam de cabeça em novas experiências, mas podem ser impacientes ou impulsivos.</descricao>
+    <imagem>aries.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Touro é o signo da estabilidade, do conforto e dos prazeres sensoriais. Taurinos prezam por segurança, lealdade e bem-estar. São pacientes, determinados e afetuosos, mas podem ser teimosos e resistentes a mudanças.</descricao>
+    <imagem>touro.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Gêmeos é o signo da comunicação, da curiosidade e da adaptabilidade. Geminianos são inteligentes, versáteis e sociáveis. Estão sempre buscando novas ideias, experiências e aprendizados. Podem parecer inconstantes ou dispersos, mas sua mente está sempre ativa.</descricao>
+    <imagem>gemeos.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>21/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Câncer é o signo da sensibilidade, do cuidado e da conexão emocional. Cancerianos são protetores, intuitivos e ligados à família. Valorizam o lar, os afetos e memórias. Às vezes se fecham em seu próprio mundo por medo de se magoar.</descricao>
+    <imagem>cancer.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Leão é o signo do brilho pessoal, da criatividade e da autoconfiança. Leoninos adoram estar no centro das atenções, são carismáticos, generosos e protetores. Têm grande coração e espírito de liderança, mas podem ser orgulhosos ou autorreferentes.</descricao>
+    <imagem>leao.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Virgem é o signo do detalhe, da análise e do aperfeiçoamento. Virginianos são organizados, práticos, observadores e prestativos. Gostam das coisas bem feitas e podem se preocupar demais com a perfeição ou com pequenas falhas.</descricao>
+    <imagem>virgem.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Libra é o signo da harmonia, do equilíbrio e dos relacionamentos. Librianos são diplomáticos, elegantes, sensíveis à estética e buscam justiça. Gostam de agradar e evitar conflitos, mas às vezes demoram a tomar decisões por querer agradar a todos.</descricao>
+    <imagem>libra.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Escorpião é o signo da intensidade emocional, do mistério e da transformação. Escorpianos são profundos, estratégicos, intuitivos e extremamente leais. Vivem com intensidade e têm grande capacidade de regeneração. Às vezes podem ser possessivos ou desconfiados.</descricao>
+    <imagem>escorpiao.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Sagitário é o signo da aventura, do conhecimento e da liberdade. Sagitarianos são otimistas, expansivos, honestos e amantes da vida. Buscam sempre aprender, explorar novos horizontes e viver com intensidade. Porém, podem ser impulsivos ou exagerados.</descricao>
+    <imagem>sagitario.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Capricórnio é o signo da responsabilidade, da disciplina e da ambição. Capricornianos são focados, determinados e têm grande capacidade de trabalho. Valorizam estabilidade e conquistas a longo prazo. Às vezes são sérios demais ou exigentes consigo mesmos.</descricao>
+    <imagem>capricornio.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>19/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Aquário é o signo da inovação, da liberdade e das ideias coletivas. Aquarianos são visionários, originais e preocupados com o bem comum. Pensam no futuro e questionam normas. Às vezes podem parecer distantes ou rebeldes.</descricao>
+    <imagem>aquario.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>20/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Peixes é o signo da sensibilidade, da empatia e da imaginação. Piscianos são sonhadores, artísticos, intuitivos e generosos. Sentem profundamente e se conectam facilmente com o mundo emocional dos outros. Podem ser escapistas ou idealistas demais.</descricao>
+    <imagem>peixes.jpg</imagem>
+  </signo>
+</signos>
+<?php include('layouts/footer.php'); ?>

@@ -1,0 +1,76 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo com imagem de fundo */
+body {
+  background-image: url('../imgs/inicio.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  padding-bottom: 60px; /* espaço para o footer */
+}
+
+form {
+  max-width: 400px;
+  width: 100%;
+}
+.minha-imagem {
+  width: 100%; /* Ajuste o tamanho da imagem */
+  height: auto; /* Manter a proporção da imagem */
+  object-fit: cover; /* Faz a imagem cobrir o espaço disponível sem deformar */
+}
+
+
+/* Caixa do conteúdo */
+.message-box {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  padding: 30px 40px;
+  border-radius: 20px;
+  width: 400px;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: 0;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  color: #fff;
+}
+
+/* Título estilizado */
+.message-box h2 {
+  background: linear-gradient(to right, #6a11cb, #2575fc, #d59fff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 28px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Parágrafo estilizado */
+.message-box p {
+  color: #e0d9ff;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  z-index: 1000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
